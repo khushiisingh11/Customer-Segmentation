@@ -1,4 +1,4 @@
-# Customer-Segmentation using Unsupervised Learning ( K - means )
+# Customer-Segmentation using Unsupervised Learning ( K - means clustering )
 
 ## Problem Statement
 The goal of this project is to develop a machine learning model capable of identifying and grouping customers based on their shopping patterns and behaviors. By leveraging customer data such as age, gender, annual income, and spending score, the model will segment customers into distinct groups. This segmentation will empower mall owners to:
