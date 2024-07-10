@@ -72,11 +72,10 @@ Fitting the K-Means model and predict the clusters for each customer.
 
 
 ### 6. Visualization and Results:
-Visualizing the clusters to interpret the grouped customers based on their purchasing behavior and demographics to target marketing strategies effectively.
+Visualizing the clusters using scatter plots and 3D plots to interpret the grouped customers based on their purchasing behavior and demographics to target marketing strategies effectively.
 ![image](https://github.com/khushiisingh11/Customer-Segmentation/assets/141178181/cc91cfe6-6446-4928-aa91-eec8ec6ec624)
 ![image](https://github.com/khushiisingh11/Customer-Segmentation/assets/141178181/163a73fa-6a3a-415e-b2cd-90a2eff952b2)
-
-Used scatter plots and 3D plots to display the clusters based on grouping customers based on their purchasing behavior and demographics to target marketing strategies effectively.
+![image](https://github.com/khushiisingh11/Customer-Segmentation/assets/141178181/564fbfc0-6271-4d90-bb98-5aa5927b1eda)
 
 ### Algorithm Used - 
 K-Means Clustering: This unsupervised machine learning algorithm partitions the data into a predefined number of clusters. Each data point is assigned to the cluster with the nearest mean, and the algorithm iteratively refines the cluster centers to minimize the within-cluster sum of squares (WCSS).
