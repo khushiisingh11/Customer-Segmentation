@@ -62,20 +62,20 @@ Visualized the correlation heatmap.
 
 ### 4. Feature Engineering: 
 Created and analyzed new features. Visualized the correlation heatmap with new features. Then prepared these for the clustering and then performed Dimensionality Reduction using Principal Component Analysis (PCA) to reduce the dimensionality of the dataset for better visualization and performance.
-![image](https://github.com/khushiisingh11/Customer-Segmentation/assets/141178181/4f13aede-131b-4dfd-995e-77e37cc8e37b)
+### ![image](https://github.com/khushiisingh11/Customer-Segmentation/assets/141178181/4f13aede-131b-4dfd-995e-77e37cc8e37b)
 
 ### 5. Segmentation:
 Applied the K-Means clustering algorithm to segment the customers.
 Determinined the optimal number of clusters using the elbow method, silhouette score, and Davies-Bouldin score.
 Fitting the K-Means model and predict the clusters for each customer.
-![image](https://github.com/khushiisingh11/Customer-Segmentation/assets/141178181/dc0aca4c-583f-4ad9-8c9a-49df3b7f85d4)
+### ![image](https://github.com/khushiisingh11/Customer-Segmentation/assets/141178181/dc0aca4c-583f-4ad9-8c9a-49df3b7f85d4)
 
 
 ### 6. Visualization and Results:
 Visualizing the clusters using scatter plots and 3D plots to interpret the grouped customers based on their purchasing behavior and demographics to target marketing strategies effectively.
-![image](https://github.com/khushiisingh11/Customer-Segmentation/assets/141178181/cc91cfe6-6446-4928-aa91-eec8ec6ec624)
-![image](https://github.com/khushiisingh11/Customer-Segmentation/assets/141178181/163a73fa-6a3a-415e-b2cd-90a2eff952b2)
-![image](https://github.com/khushiisingh11/Customer-Segmentation/assets/141178181/564fbfc0-6271-4d90-bb98-5aa5927b1eda)
+### ![image](https://github.com/khushiisingh11/Customer-Segmentation/assets/141178181/cc91cfe6-6446-4928-aa91-eec8ec6ec624)
+### ![image](https://github.com/khushiisingh11/Customer-Segmentation/assets/141178181/163a73fa-6a3a-415e-b2cd-90a2eff952b2)
+### ![image](https://github.com/khushiisingh11/Customer-Segmentation/assets/141178181/564fbfc0-6271-4d90-bb98-5aa5927b1eda)
 
 ### Algorithm Used - 
 K-Means Clustering: This unsupervised machine learning algorithm partitions the data into a predefined number of clusters. Each data point is assigned to the cluster with the nearest mean, and the algorithm iteratively refines the cluster centers to minimize the within-cluster sum of squares (WCSS).
